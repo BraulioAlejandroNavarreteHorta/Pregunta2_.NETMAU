@@ -1,2 +1,2 @@
 # Pregunta2_.NETMAUI
-Simple juego de preguntas y respuestas en .NET MAUI usando MVVM en lenguaje c#
+Simple question and answer game in .NET MAUI using MVVM in C# language
